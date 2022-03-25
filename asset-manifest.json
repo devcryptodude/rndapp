@@ -1,26 +1,27 @@
 {
   "files": {
     "main.css": "/rndapp/static/css/main.147a3ecc.chunk.css",
-    "main.js": "/rndapp/static/js/main.4693fafd.chunk.js",
-    "main.js.map": "/rndapp/static/js/main.4693fafd.chunk.js.map",
-    "runtime-main.js": "/rndapp/static/js/runtime-main.a155ef4d.js",
-    "runtime-main.js.map": "/rndapp/static/js/runtime-main.a155ef4d.js.map",
-    "static/css/2.57b2fb1c.chunk.css": "/rndapp/static/css/2.57b2fb1c.chunk.css",
-    "static/js/2.fe8a969b.chunk.js": "/rndapp/static/js/2.fe8a969b.chunk.js",
-    "static/js/2.fe8a969b.chunk.js.map": "/rndapp/static/js/2.fe8a969b.chunk.js.map",
+    "main.js": "/rndapp/static/js/main.a4456ab3.chunk.js",
+    "main.js.map": "/rndapp/static/js/main.a4456ab3.chunk.js.map",
+    "runtime-main.js": "/rndapp/static/js/runtime-main.47eaa26f.js",
+    "runtime-main.js.map": "/rndapp/static/js/runtime-main.47eaa26f.js.map",
+    "static/css/2.b79f5cb6.chunk.css": "/rndapp/static/css/2.b79f5cb6.chunk.css",
+    "static/js/2.a2af2e64.chunk.js": "/rndapp/static/js/2.a2af2e64.chunk.js",
+    "static/js/2.a2af2e64.chunk.js.map": "/rndapp/static/js/2.a2af2e64.chunk.js.map",
     "index.html": "/rndapp/index.html",
-    "static/css/2.57b2fb1c.chunk.css.map": "/rndapp/static/css/2.57b2fb1c.chunk.css.map",
+    "static/css/2.b79f5cb6.chunk.css.map": "/rndapp/static/css/2.b79f5cb6.chunk.css.map",
     "static/css/main.147a3ecc.chunk.css.map": "/rndapp/static/css/main.147a3ecc.chunk.css.map",
-    "static/js/2.fe8a969b.chunk.js.LICENSE.txt": "/rndapp/static/js/2.fe8a969b.chunk.js.LICENSE.txt",
+    "static/js/2.a2af2e64.chunk.js.LICENSE.txt": "/rndapp/static/js/2.a2af2e64.chunk.js.LICENSE.txt",
     "static/media/App.css": "/rndapp/static/media/RedHatText-Bold.79f1187c.ttf",
-    "static/media/logo_menu.01aba276.png": "/rndapp/static/media/logo_menu.01aba276.png",
+    "static/media/background.c0a9ed45.png": "/rndapp/static/media/background.c0a9ed45.png",
+    "static/media/insta-white.f7b3dff3.png": "/rndapp/static/media/insta-white.f7b3dff3.png",
     "static/media/twitter-white.27cda7bd.png": "/rndapp/static/media/twitter-white.27cda7bd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a155ef4d.js",
-    "static/css/2.57b2fb1c.chunk.css",
-    "static/js/2.fe8a969b.chunk.js",
+    "static/js/runtime-main.47eaa26f.js",
+    "static/css/2.b79f5cb6.chunk.css",
+    "static/js/2.a2af2e64.chunk.js",
     "static/css/main.147a3ecc.chunk.css",
-    "static/js/main.4693fafd.chunk.js"
+    "static/js/main.a4456ab3.chunk.js"
   ]
 }
